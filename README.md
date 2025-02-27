@@ -35,7 +35,7 @@ I'm a passionate Game Developer with a strong background in Unity and C#. I focu
 *Genre:* Multiplayer Match-3 Puzzle  
 *Description:* A strategic multiplayer Match-3 game where players compete in real time to create combos and score points.
 
-#### 🏫 [DijitalpreesCHOOL](https://www.digitalpreschools.com/tr/)
+#### 🏫 [DigitalpreSchoolsL](https://www.digitalpreschools.com/tr/)
 *Genre:* Educational Games  
 *Description:* A project recognized in Europe for its innovative approach to educational games, blending fun and learning for young audiences.
 
