@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Yakup Ekinci! 👋</h1>
-<h3 align="center">Game Developer | Unity | C# | Multiplayer | FPS | Match-3</h3>
+<h1 align="center">Hello, I'm Yakup Ekinci 👋</h1>
+<h3 align="center">Game Developer | Unity & C# Specialist | Multiplayer & Simulation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yakupekinci&color=blueviolet" alt="profile views" />
@@ -9,38 +9,48 @@
 
 ---
 
-### 🎮 About Me
-- 🔥 **Game Developer** specializing in **Unity & Multiplayer Games**
-- 🎯 Passionate about **Match-3, FPS, WebGL, and Simulation Games**
-- 💡 Love creating **immersive gaming experiences**
+### About Me
+
+I am a dedicated Game Developer with a strong focus on Unity and C#. I specialize in crafting immersive, high-performance gaming experiences across diverse genres, including hardcore FPS, multiplayer Match-3, realistic 3D simulation, and WebGL arcade games. My approach combines rigorous object-oriented programming principles with innovative design patterns to produce clean, scalable, and efficient code.
+
+I continually strive to refine my technical skills and stay abreast of industry best practices, ensuring that every project I work on meets the highest standards of quality and engagement.
 
 ---
 
-### 🛠️ Tech Stack
-**Languages & Tools:**  
-![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Photon](https://img.shields.io/badge/-Photon%20Fusion-004680?style=for-the-badge&logo=photon&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-E34F26?style=for-the-badge&logo=webgl&logoColor=white)
+### Technical Expertise
+
+- **Game Engines:** Unity (C#)
+- **Multiplayer Frameworks:** Photon Fusion, Photon PUN 2
+- **Web Technologies:** WebGL, HTML5
+- **Development Practices:** Clean Code, Object-Oriented Programming, Design Patterns, Performance Optimization
+- **Version Control:** Git
 
 ---
 
-### 🔥 Featured Projects
-#### ☠️ [Deadly Way](https://github.com/yakupekinci/DeadlyWay) - *Hardcore FPS Game*
-> A fast-paced FPS game with challenging mechanics and unique levels.
+### Featured Projects
 
-#### 🎮 [Match3 Battle](https://github.com/yakupekinci/Match3Battle) - *Multiplayer Match-3 Game*
-> A strategic match-3 game where players compete online in real time.
+#### [Deadly Way](https://github.com/yakupekinci/DeadlyWay)
+*Genre:* Hardcore FPS  
+*Description:* A fast-paced FPS game with challenging levels and refined gameplay mechanics that push the limits of player skill.
 
-#### 🌍 [Open World Simulator](https://github.com/yakupekinci/OpenWorldSim) - *Realistic 3D Simulator*
-> A detailed simulation game focusing on open-world mechanics and real-life interactions.
+#### [Match3 Battle](https://github.com/yakupekinci/Match3Battle)
+*Genre:* Multiplayer Match-3  
+*Description:* A strategic, competitive match-3 game where real-time multiplayer action meets deep tactical gameplay.
 
-#### 🕹️ [WebGL Arcade](https://github.com/yakupekinci/WebGLArcade) - *Playable in Browser*
-> A collection of WebGL games optimized for seamless browser gameplay.
+#### [Open World Simulator](https://github.com/yakupekinci/OpenWorldSim)
+*Genre:* Realistic 3D Simulation  
+*Description:* A comprehensive open-world simulator that emphasizes realistic interactions and immersive environments, delivering a lifelike experience.
+
+#### [WebGL Arcade](https://github.com/yakupekinci/WebGLArcade)
+*Genre:* Browser-based Arcade  
+*Description:* A curated collection of WebGL games designed for seamless browser play, combining nostalgic arcade fun with modern technology.
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakup-ekinci-b70188235/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakup.ekiinci@gmail.com)
+### Let's Connect
+
+I’m always open to discussing game development, collaboration opportunities, or innovative ideas. Feel free to get in touch!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakupekinci)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yakupekinci)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakup@example.com)
