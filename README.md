@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Yakup Ekinci 👋</h1>
-<h3 align="center">Game Developer | Unity & C# Specialist |Level Desinger | Multiplayer, Simulation & Parkour ,Match3 Games</h3>
+<h3 align="center">Game Developer | Unity & C# Specialist |Level Desinger | SoftWare Developer as a Computer Engineer |Multiplayer, Simulation & Parkour ,Match3 Games</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yakupekinci&color=blueviolet" alt="profile views" />
