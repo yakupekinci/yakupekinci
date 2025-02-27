@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yakup Ekinci! 👋</h1>
-<h3 align="center">Game Developer | Unity | C# | Multiplayer | FPS | DevOps</h3>
+<h3 align="center">Game Developer | Unity | C# | Multiplayer | FPS | Match-3</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yakupekinci&color=blueviolet" alt="profile views" />
@@ -9,11 +9,10 @@
 
 ---
 
-### 🕹️ About Me
-- 🎮 **Game Developer** focused on **Unity & Multiplayer**
-- 🚀 Working on **[GASSAL](https://github.com/yakupekinci/GASSAL)** - *A multiplayer funeral simulation game*
-- 🌍 Exploring **DevOps, CI/CD, and Cloud Technologies**
-- 📚 Improving **English & German** for international opportunities
+### 🎮 About Me
+- 🔥 **Game Developer** specializing in **Unity & Multiplayer Games**
+- 🎯 Passionate about **Match-3, FPS, WebGL, and Simulation Games**
+- 💡 Love creating **immersive gaming experiences**
 
 ---
 
@@ -23,27 +22,25 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Photon](https://img.shields.io/badge/-Photon%20Fusion-004680?style=for-the-badge&logo=photon&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-E34F26?style=for-the-badge&logo=webgl&logoColor=white)
 
 ---
 
 ### 🔥 Featured Projects
-#### 🎮 [Area-07](https://github.com/yakupekinci/Area-07) - *Parkour Game*
-> A fast-paced parkour game with smooth and dynamic movements.
+#### ☠️ [Deadly Way](https://github.com/yakupekinci/DeadlyWay) - *Hardcore FPS Game*
+> A fast-paced FPS game with challenging mechanics and unique levels.
 
-#### 🧟 [Zombie Apocalypse](https://github.com/yakupekinci/ZombieApocalypse) - *Survival Shooter*
-> FPS survival game with zombie waves and resource management.
+#### 🎮 [Match3 Battle](https://github.com/yakupekinci/Match3Battle) - *Multiplayer Match-3 Game*
+> A strategic match-3 game where players compete online in real time.
 
-#### 🛠️ [ScoreeFriend](https://github.com/yakupekinci/ScoreeFriend) - *Online Multiplayer Game*
-> My first online multiplayer project with score-based competitions.
+#### 🌍 [Open World Simulator](https://github.com/yakupekinci/OpenWorldSim) - *Realistic 3D Simulator*
+> A detailed simulation game focusing on open-world mechanics and real-life interactions.
 
-#### 🎭 [Costumer Party](https://github.com/yakupekinci/CostumerParty) - *Arcade Idle Game*
-> A fun and casual idle game inspired by Cooking Craft.
+#### 🕹️ [WebGL Arcade](https://github.com/yakupekinci/WebGLArcade) - *Playable in Browser*
+> A collection of WebGL games optimized for seamless browser gameplay.
 
 ---
 
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakupekinci)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yakupekinci)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakup@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yakup-ekinci-b70188235/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakup.ekiinci@gmail.com)
